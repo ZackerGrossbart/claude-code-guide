@@ -10,20 +10,21 @@ The status section below is updated by a daily GitHub Action.
 
 ### 🔄 Last Sync
 
-- **UTC**: `2026-03-31 03:28:39 UTC`
-- **Europe/Oslo**: `2026-03-31 05:28:39 CEST`
-- **Workflow Run**: [#96](https://github.com/ZackerGrossbart/claude-code-guide/actions/runs/23779035017)
+- **UTC**: `2026-04-01 03:44:08 UTC`
+- **Europe/Oslo**: `2026-04-01 05:44:08 CEST`
+- **Workflow Run**: [#97](https://github.com/ZackerGrossbart/claude-code-guide/actions/runs/23830874129)
 
 ### ✅ Files Updated This Run
 
 - **api.md**: +1 / -1
 - **claude-code.md**: +1 / -1
 - **system-prompts.md**: +1 / -1
-- **CHANGELOG.md**: +44 / -0
+- **CHANGELOG.md**: +30 / -19
 - **claude-apps.md**: +1 / -1
-**Total changes**: +48 / -4 lines
+**Total changes**: +34 / -23 lines
 
 <!-- sync-status:end -->
+
 
 
 
